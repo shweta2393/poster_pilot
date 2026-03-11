@@ -1,6 +1,7 @@
 # PosterPilot — AI-Powered Poster & Ad Creator
 
 An agentic AI application for creating stunning digital posters, social media graphics, and advertisements from a single natural-language prompt. Type something like _"create a LinkedIn post advertising my salon"_ and PosterPilot generates a complete, publication-ready poster with relevant imagery, industry-tailored copy, and smart layout — then lets you refine every detail interactively.
+Screenshots from local run are available in: docs/ui-screenshots.pdf
 
 ## Highlights
 
